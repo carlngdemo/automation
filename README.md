@@ -3,5 +3,5 @@ Automation is something that I don't have to do, and I get to be the first to te
 
 It's automated as long as I don't have to do it, and I still have a job.
 
-Once created, the automate button clicks itself.
+The automate button clicks itself.
 
